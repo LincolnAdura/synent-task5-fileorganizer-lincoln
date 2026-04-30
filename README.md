@@ -29,7 +29,7 @@ python file_organizer.py
 ```
 
 ## Demo Video
-[Click here to watch the demo](paste-your-video-link-here)
+[Click here to watch the demo](https://www.linkedin.com/posts/lincoln-adura-9b41582a2_internship-python-programming-activity-7455735602299244545-OFTm?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEj-PJgB4bj8FKDCrrZe1jolwLJuoSNjIw4)
 
 ## Modules Used
 - `os` — File system interaction and folder management
